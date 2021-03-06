@@ -1,8 +1,0 @@
-#define SECRET_SSID "KE"
-#define SECRET_PASS "9825198857222418"
-#define SECRET_AUTHA "5SkEjAy0xhaHhifMsGVEcXJ5Aywtfmbw"
-#define SECRET_AUTHB "UQMLz0oA8mQ1C1LVFBFvXe0Kl_DRVxSH"
-#define SECRET_AUTHC "moJbo0qMeOhR2Lzm6iwSdkd3Nx1FZJQg"
-#define SECRET_AUTHD "6V8jMfw2khE5OENhSoJ2S7aroJta_AAc"
-#define SECRET_AUTHE "dp7MOthKT8juM5xVGQpd_uGXLnq7BCv1"
-#define SECRET_AUTHF "J0aqf-BtdPliN0g-cz_OdwPKEw1m4mgL"
